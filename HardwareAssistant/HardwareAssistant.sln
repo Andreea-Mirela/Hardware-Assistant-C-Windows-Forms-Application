@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HardwareAssistant", "HardwareAssistant.csproj", "{9B181338-A788-403F-A948-C78E07D9D4D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BarChartLibrary", "..\BarChartLibrary\BarChartLibrary.csproj", "{C0C7C246-9422-4BB5-BF0B-C93B96C6D980}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B181338-A788-403F-A948-C78E07D9D4D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B181338-A788-403F-A948-C78E07D9D4D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B181338-A788-403F-A948-C78E07D9D4D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B181338-A788-403F-A948-C78E07D9D4D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0C7C246-9422-4BB5-BF0B-C93B96C6D980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0C7C246-9422-4BB5-BF0B-C93B96C6D980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0C7C246-9422-4BB5-BF0B-C93B96C6D980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0C7C246-9422-4BB5-BF0B-C93B96C6D980}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60A11A25-A6B2-4CF7-BCC5-F9479D9BEF53}
+	EndGlobalSection
+EndGlobal

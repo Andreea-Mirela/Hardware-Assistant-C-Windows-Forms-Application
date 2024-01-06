@@ -1,0 +1,32 @@
+[
+  {
+    "ComputerId": 0,
+    "ComputerCode": "N304VD3471EMEA_U",
+    "ComputerName": "Sistem brand DELL Vostro 3471 SFF, Procesor Intel Core i3-9100 3.6GHz Coffee Lake, 8GB DDR4, 256GB SSD, UHD 630, Linux",
+    "Platform": "Vostro 3471",
+    "ProcessorId": 1,
+    "RandomAccessMemoryId": 2,
+    "HardDiskId": 3,
+    "SolidStateDriveId": 4,
+    "VideoCardType": "Dedicated",
+    "VideoCardId": 5,
+    "MotherboardId": 6,
+    "Size": "29 cm x 29.3 cm x 9.3 cm",
+    "Weight": "4.8 kg"
+  },
+  {
+    "ComputerId": 1,
+    "ComputerCode": "CA001D3020M1H1mt",
+    "ComputerName": "Sistem brand DELL OptiPlex 3020 Micro, Procesor Intel Pentium G3250T 2.8GHz Haswell, 4GB DDR3, 500GB HDD, GMA HD, Linux",
+    "Platform": "OptiPlex 3020",
+    "ProcessorId": 7,
+    "RandomAccessMemoryId": 8,
+    "HardDiskId": 9,
+    "SolidStateDriveId":null ,
+    "VideoCardType": "Integrated",
+    "VideoCardId": null,
+    "MotherboardId": 10,
+    "Size": "41.7 x 36 x 17.5 cm",
+    "Weight": "9.4 kg"
+  }
+]

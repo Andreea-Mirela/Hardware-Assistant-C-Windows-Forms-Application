@@ -1,0 +1,24 @@
+[
+  {
+    "ProcessorId": 1,
+    "CoreName": "Coffee Lake",
+    "CoresNumber": 4,
+    "ThreadsNumber": 4,
+    "Frequency": "3,6 GHz",
+    "TurboFrequency": "4,2 GHz",
+    "Technology": "14 nm",
+    "TotalDissipatedPower": "65 W",
+    "IntegratedGraphicsCard": "UHD 630"
+  },
+  {
+    "ProcessorId": 7,
+    "CoreName": "Kaby Lake",
+    "CoresNumber": 2,
+    "ThreadsNumber": 4,
+    "Frequency": "3,9 GHz",
+    "TurboFrequency": "",
+    "Technology": "14 nm",
+    "TotalDissipatedPower": "51 W",
+    "IntegratedGraphicsCard": "GMA HD"
+  }
+]

@@ -1,0 +1,122 @@
+[
+  {
+    "ComponentTypeId": 1,
+    "ComponentCompatibilityId": 1
+  },
+  {
+    "ComponentTypeId": 1,
+    "ComponentCompatibilityId": 2
+  },
+  {
+    "ComponentTypeId": 1,
+    "ComponentCompatibilityId": 3
+  },
+  {
+    "ComponentTypeId": 1,
+    "ComponentCompatibilityId": 4
+  },
+  {
+    "ComponentTypeId": 1,
+    "ComponentCompatibilityId": 5
+  },
+  {
+    "ComponentTypeId": 1,
+    "ComponentCompatibilityId": 6
+  },
+  {
+    "ComponentTypeId": 1,
+    "ComponentCompatibilityId": 7
+  },
+  {
+    "ComponentTypeId": 1,
+    "ComponentCompatibilityId": 8
+  },
+  {
+    "ComponentTypeId": 1,
+    "ComponentCompatibilityId": 9
+  },
+  {
+    "ComponentTypeId": 1,
+    "ComponentCompatibilityId": 10
+  },
+  {
+    "ComponentTypeId": 1,
+    "ComponentCompatibilityId": 11
+  },
+  {
+    "ComponentTypeId": 1,
+    "ComponentCompatibilityId": 29
+  },
+  {
+    "ComponentTypeId": 2,
+    "ComponentCompatibilityId": 12
+  },
+  {
+    "ComponentTypeId": 2,
+    "ComponentCompatibilityId": 13
+  },
+  {
+    "ComponentTypeId": 2,
+    "ComponentCompatibilityId": 14
+  },
+  {
+    "ComponentTypeId": 2,
+    "ComponentCompatibilityId": 15
+  },
+  {
+    "ComponentTypeId": 3,
+    "ComponentCompatibilityId": 16
+  },
+  {
+    "ComponentTypeId": 3,
+    "ComponentCompatibilityId": 17
+  },
+  {
+    "ComponentTypeId": 4,
+    "ComponentCompatibilityId": 17
+  },
+  {
+    "ComponentTypeId": 5,
+    "ComponentCompatibilityId": 18
+  },
+  {
+    "ComponentTypeId": 5,
+    "ComponentCompatibilityId": 19
+  },
+  {
+    "ComponentTypeId": 5,
+    "ComponentCompatibilityId": 20
+  },
+  {
+    "ComponentTypeId": 5,
+    "ComponentCompatibilityId": 21
+  },
+  {
+    "ComponentTypeId": 5,
+    "ComponentCompatibilityId": 22
+  },
+  {
+    "ComponentTypeId": 6,
+    "ComponentCompatibilityId": 23
+  },
+  {
+    "ComponentTypeId": 6,
+    "ComponentCompatibilityId": 24
+  },
+  {
+    "ComponentTypeId": 6,
+    "ComponentCompatibilityId": 25
+  },
+  {
+    "ComponentTypeId": 6,
+    "ComponentCompatibilityId": 26
+  },
+  {
+    "ComponentTypeId": 6,
+    "ComponentCompatibilityId": 27
+  },
+  {
+    "ComponentTypeId": 6,
+    "ComponentCompatibilityId": 28
+  }
+]

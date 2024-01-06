@@ -1,0 +1,147 @@
+[
+  {
+    "ComponentCompatibilityId": 1,
+    "ComponentCompatibilityCode": "AM1",
+    "ComponentCompatibilityName": "AM1"
+  },
+  {
+    "ComponentCompatibilityId": 2,
+    "ComponentCompatibilityCode": "AM3+",
+    "ComponentCompatibilityName": "AM3+"
+  },
+  {
+    "ComponentCompatibilityId": 3,
+    "ComponentCompatibilityCode": "AM4",
+    "ComponentCompatibilityName": "AM4"
+  },
+  {
+    "ComponentCompatibilityId": 4,
+    "ComponentCompatibilityCode": "FM2",
+    "ComponentCompatibilityName": "FM2"
+  },
+  {
+    "ComponentCompatibilityId": 5,
+    "ComponentCompatibilityCode": "FM2+",
+    "ComponentCompatibilityName": "FM2+"
+  },
+  {
+    "ComponentCompatibilityId": 6,
+    "ComponentCompatibilityCode": "TR4",
+    "ComponentCompatibilityName": "TR4"
+  },
+  {
+    "ComponentCompatibilityId": 7,
+    "ComponentCompatibilityCode": "TRX4",
+    "ComponentCompatibilityName": "TRX4"
+  },
+  {
+    "ComponentCompatibilityId": 8,
+    "ComponentCompatibilityCode": "1151",
+    "ComponentCompatibilityName": "1151"
+  },
+  {
+    "ComponentCompatibilityId": 9,
+    "ComponentCompatibilityCode": "1151v2",
+    "ComponentCompatibilityName": "1151 v2"
+  },
+  {
+    "ComponentCompatibilityId": 10,
+    "ComponentCompatibilityCode": "1155",
+    "ComponentCompatibilityName": "1155"
+  },
+  {
+    "ComponentCompatibilityId": 11,
+    "ComponentCompatibilityCode": "2066",
+    "ComponentCompatibilityName": "2066"
+  },
+  {
+    "ComponentCompatibilityId": 12,
+    "ComponentCompatibilityCode": "DDR",
+    "ComponentCompatibilityName": "DDR"
+  },
+  {
+    "ComponentCompatibilityId": 13,
+    "ComponentCompatibilityCode": "DDR2",
+    "ComponentCompatibilityName": "DDR2"
+  },
+  {
+    "ComponentCompatibilityId": 14,
+    "ComponentCompatibilityCode": "DDR3",
+    "ComponentCompatibilityName": "DDR3"
+  },
+  {
+    "ComponentCompatibilityId": 15,
+    "ComponentCompatibilityCode": "DDR4",
+    "ComponentCompatibilityName": "DDR4"
+  },
+  {
+    "ComponentCompatibilityId": 16,
+    "ComponentCompatibilityCode": "IDE",
+    "ComponentCompatibilityName": "IDE"
+  },
+  {
+    "ComponentCompatibilityId": 17,
+    "ComponentCompatibilityCode": "SATA",
+    "ComponentCompatibilityName": "SATA"
+  },
+  {
+    "ComponentCompatibilityId": 18,
+    "ComponentCompatibilityCode": "AGP",
+    "ComponentCompatibilityName": "AGP"
+  },
+  {
+    "ComponentCompatibilityId": 19,
+    "ComponentCompatibilityCode": "PCI_EXPR_X_1",
+    "ComponentCompatibilityName": "PCI Express x1"
+  },
+  {
+    "ComponentCompatibilityId": 20,
+    "ComponentCompatibilityCode": "PCI_EXPR_X_16",
+    "ComponentCompatibilityName": "PCI Express x16"
+  },
+  {
+    "ComponentCompatibilityId": 21,
+    "ComponentCompatibilityCode": "PCI_EXPR_X_4",
+    "ComponentCompatibilityName": "PCI Express x4"
+  },
+  {
+    "ComponentCompatibilityId": 22,
+    "ComponentCompatibilityCode": "PCI_EXPR_X_8",
+    "ComponentCompatibilityName": "PCI Express x8"
+  },
+  {
+    "ComponentCompatibilityId": 23,
+    "ComponentCompatibilityCode": "ATX",
+    "ComponentCompatibilityName": "ATX"
+  },
+  {
+    "ComponentCompatibilityId": 24,
+    "ComponentCompatibilityCode": "eATX",
+    "ComponentCompatibilityName": "eATX"
+  },
+  {
+    "ComponentCompatibilityId": 25,
+    "ComponentCompatibilityCode": "mATX",
+    "ComponentCompatibilityName": "mATX"
+  },
+  {
+    "ComponentCompatibilityId": 26,
+    "ComponentCompatibilityCode": "mDTX",
+    "ComponentCompatibilityName": "mDTX"
+  },
+  {
+    "ComponentCompatibilityId": 27,
+    "ComponentCompatibilityCode": "mITX",
+    "ComponentCompatibilityName": "mITX"
+  },
+  {
+    "ComponentCompatibilityId": 28,
+    "ComponentCompatibilityCode": "XL-ATX",
+    "ComponentCompatibilityName": "XL-ATX"
+  },
+  {
+    "ComponentCompatibilityId": 29,
+    "ComponentCompatibilityCode": "1150",
+    "ComponentCompatibilityName": "1150"
+  }
+]

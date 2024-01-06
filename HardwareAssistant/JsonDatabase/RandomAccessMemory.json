@@ -1,0 +1,66 @@
+[
+  {
+    "RandomAccessMemoryId": 2,
+    "Capacity": "8 GB",
+    "Frequency": "2400 MHz",
+    "Latency": "14 CL",
+    "Voltage": "1.2 V",
+    "Timing": "14-16-16-31"
+  },
+  {
+    "RandomAccessMemoryId": 8,
+    "Capacity": "4 GB",
+    "Frequency": "1600 MHz",
+    "Latency": "10 CL",
+    "Voltage": "1.5 V",
+    "Timing": "10-10-10-30"
+  },
+  {
+    "RandomAccessMemoryId": 11,
+    "Capacity": "1 GB",
+    "Frequency": "400 MHz",
+    "Latency": "3 CL",
+    "Voltage": "",
+    "Timing": ""
+  },
+  {
+    "RandomAccessMemoryId": 12,
+    "Capacity": "2 GB",
+    "Frequency": "800 MHz",
+    "Latency": "6 CL",
+    "Voltage": "1.8 V",
+    "Timing": ""
+  },
+  {
+    "RandomAccessMemoryId": 13,
+    "Capacity": "4 GB",
+    "Frequency": "1333 MHz",
+    "Latency": "9 CL",
+    "Voltage": "1.5 V",
+    "Timing": ""
+  },
+  {
+    "RandomAccessMemoryId": 14,
+    "Capacity": "4 GB",
+    "Frequency": "1600 MHz",
+    "Latency": "11 CL",
+    "Voltage": "1.5 V",
+    "Timing": "11-11-11-30"
+  },
+  {
+    "RandomAccessMemoryId": 15,
+    "Capacity": "8 GB",
+    "Frequency": "3000 MHz",
+    "Latency": "16 CL",
+    "Voltage": "1.35 V",
+    "Timing": "16-20-20-38"
+  },
+  {
+    "RandomAccessMemoryId": 16,
+    "Capacity": "16 GB",
+    "Frequency": "3000 MHz",
+    "Latency": "16 CL",
+    "Voltage": "1.35 V",
+    "Timing": "16-18-18-38"
+  }
+]

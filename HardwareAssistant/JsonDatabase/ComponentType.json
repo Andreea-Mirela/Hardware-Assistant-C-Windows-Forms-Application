@@ -1,0 +1,32 @@
+[
+  {
+    "ComponentTypeId": 1,
+    "ComponentTypeCode": "PROCESSOR",
+    "ComponentTypeName": "Procesor"
+  },
+  {
+    "ComponentTypeId": 2,
+    "ComponentTypeCode": "RAM",
+    "ComponentTypeName": "Memorie RAM"
+  },
+  {
+    "ComponentTypeId": 3,
+    "ComponentTypeCode": "HDD",
+    "ComponentTypeName": "Hard Disk"
+  },
+  {
+    "ComponentTypeId": 4,
+    "ComponentTypeCode": "SSD",
+    "ComponentTypeName": "Solid State Drive"
+  },
+  {
+    "ComponentTypeId": 5,
+    "ComponentTypeCode": "VIDEO_CARD",
+    "ComponentTypeName": "Placa video"
+  },
+  {
+    "ComponentTypeId": 6,
+    "ComponentTypeCode": "MOTHERBOARD",
+    "ComponentTypeName": "Placa de baza"
+  }
+]

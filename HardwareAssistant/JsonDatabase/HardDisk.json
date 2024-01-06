@@ -1,0 +1,18 @@
+[
+  {
+    "HardDiskId": 3,
+    "Interface": "SATA-III",
+    "Capacity": "1 TB",
+    "Buffer": "64 MB",
+    "Speed": "7200 RPM",
+    "FormFactor": "3.5 inch"
+  },
+  {
+    "HardDiskId": 9,
+    "Interface": "SATA-III",
+    "Capacity": "500 GB",
+    "Buffer": "64 MB",
+    "Speed": "7200 RPM",
+    "FormFactor": "3.5 inch"
+  }
+]

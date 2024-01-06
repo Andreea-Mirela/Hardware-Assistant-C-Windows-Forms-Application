@@ -1,0 +1,13 @@
+[
+  {
+    "VideoCardId": 5,
+    "ChipsetManufacturer": "NVIDIA",
+    "Technology": "12 nm",
+    "GraphicProcessor": "Turing TU106",
+    "Clock": "1755 MHz",
+    "MemoryType": "GDDR6",
+    "MemorySize": "6 GB",
+    "MemoryBus": "192 bit",
+    "MemoryFrequency": "14000 MHz"
+  }
+]

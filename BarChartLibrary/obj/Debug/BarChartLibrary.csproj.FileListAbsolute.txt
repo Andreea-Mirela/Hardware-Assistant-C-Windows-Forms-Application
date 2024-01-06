@@ -1,0 +1,421 @@
+D:\GitSources\BarChartLibrary\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+D:\GitSources\BarChartLibrary\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+D:\GitSources\BarChartLibrary\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+D:\GitSources\BarChartLibrary\bin\Debug\BarChartLibrary.dll.config
+D:\GitSources\BarChartLibrary\bin\Debug\BarChartLibrary.dll
+D:\GitSources\BarChartLibrary\bin\Debug\BarChartLibrary.pdb
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\GitSources\BarChartLibrary\bin\Debug\netstandard.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.AppContext.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Collections.Concurrent.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Collections.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Collections.NonGeneric.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Collections.Specialized.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.ComponentModel.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.ComponentModel.Primitives.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.ComponentModel.TypeConverter.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Console.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Data.Common.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Diagnostics.Contracts.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Diagnostics.Debug.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Diagnostics.Process.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Diagnostics.StackTrace.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Diagnostics.Tools.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Diagnostics.TraceSource.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Diagnostics.Tracing.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Drawing.Primitives.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Dynamic.Runtime.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Globalization.Calendars.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Globalization.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Globalization.Extensions.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.IO.Compression.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.IO.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.IO.FileSystem.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.IO.FileSystem.Watcher.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.IO.IsolatedStorage.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.IO.MemoryMappedFiles.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.IO.Pipes.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Linq.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Linq.Expressions.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Linq.Parallel.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Linq.Queryable.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Net.Http.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Net.NameResolution.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Net.NetworkInformation.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Net.Ping.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Net.Primitives.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Net.Requests.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Net.Security.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Net.Sockets.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Net.WebHeaderCollection.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Net.WebSockets.Client.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Net.WebSockets.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.ObjectModel.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Reflection.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Reflection.Extensions.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Reflection.Primitives.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Resources.Reader.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Resources.ResourceManager.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Resources.Writer.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Runtime.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Runtime.Extensions.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Runtime.Handles.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Runtime.InteropServices.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Runtime.Numerics.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Runtime.Serialization.Formatters.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Runtime.Serialization.Json.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Runtime.Serialization.Primitives.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Runtime.Serialization.Xml.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Security.Claims.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Security.Cryptography.Csp.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Security.Principal.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Security.SecureString.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Text.Encoding.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Text.Encoding.Extensions.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Text.RegularExpressions.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Threading.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Threading.Overlapped.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Threading.Tasks.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Threading.Tasks.Parallel.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Threading.Thread.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Threading.ThreadPool.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Threading.Timer.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.ValueTuple.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Xml.ReaderWriter.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Xml.XDocument.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Xml.XmlDocument.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Xml.XmlSerializer.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Xml.XPath.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Xml.XPath.XDocument.dll
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.Data.Sqlite.dll
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Options.dll
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\GitSources\BarChartLibrary\bin\Debug\Newtonsoft.Json.dll
+D:\GitSources\BarChartLibrary\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+D:\GitSources\BarChartLibrary\bin\Debug\SQLitePCLRaw.core.dll
+D:\GitSources\BarChartLibrary\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+D:\GitSources\BarChartLibrary\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Buffers.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Collections.Immutable.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.ComponentModel.Annotations.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Memory.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Numerics.Vectors.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\GitSources\BarChartLibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.Data.Sqlite.xml
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Options.xml
+D:\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\GitSources\BarChartLibrary\bin\Debug\Newtonsoft.Json.xml
+D:\GitSources\BarChartLibrary\bin\Debug\System.Buffers.xml
+D:\GitSources\BarChartLibrary\bin\Debug\System.Collections.Immutable.xml
+D:\GitSources\BarChartLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\GitSources\BarChartLibrary\bin\Debug\System.Memory.xml
+D:\GitSources\BarChartLibrary\bin\Debug\System.Numerics.Vectors.xml
+D:\GitSources\BarChartLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\GitSources\BarChartLibrary\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\GitSources\BarChartLibrary\obj\Debug\BarChartLibrary.dll.config
+D:\GitSources\BarChartLibrary\obj\Debug\BarChartLibrary.BarChart.resources
+D:\GitSources\BarChartLibrary\obj\Debug\BarChartLibrary.csproj.GenerateResource.cache
+D:\GitSources\BarChartLibrary\obj\Debug\BarChartLibrary.csproj.CoreCompileInputs.cache
+D:\GitSources\BarChartLibrary\obj\Debug\BarChartLibrary.csproj.CopyComplete
+D:\GitSources\BarChartLibrary\obj\Debug\BarChartLibrary.dll
+D:\GitSources\BarChartLibrary\obj\Debug\BarChartLibrary.pdb
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\BarChartLibrary.dll.config
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\BarChartLibrary.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\BarChartLibrary.pdb
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Win32.Primitives.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\netstandard.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.AppContext.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Collections.Concurrent.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Collections.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Collections.NonGeneric.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Collections.Specialized.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.ComponentModel.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.ComponentModel.EventBasedAsync.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.ComponentModel.Primitives.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.ComponentModel.TypeConverter.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Console.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Data.Common.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Diagnostics.Contracts.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Diagnostics.Debug.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Diagnostics.FileVersionInfo.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Diagnostics.Process.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Diagnostics.StackTrace.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Diagnostics.TextWriterTraceListener.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Diagnostics.Tools.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Diagnostics.TraceSource.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Diagnostics.Tracing.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Drawing.Primitives.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Dynamic.Runtime.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Globalization.Calendars.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Globalization.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Globalization.Extensions.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.IO.Compression.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.IO.Compression.ZipFile.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.IO.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.IO.FileSystem.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.IO.FileSystem.DriveInfo.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.IO.FileSystem.Primitives.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.IO.FileSystem.Watcher.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.IO.IsolatedStorage.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.IO.MemoryMappedFiles.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.IO.Pipes.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.IO.UnmanagedMemoryStream.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Linq.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Linq.Expressions.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Linq.Parallel.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Linq.Queryable.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Net.Http.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Net.NameResolution.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Net.NetworkInformation.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Net.Ping.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Net.Primitives.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Net.Requests.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Net.Security.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Net.Sockets.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Net.WebHeaderCollection.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Net.WebSockets.Client.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Net.WebSockets.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.ObjectModel.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Reflection.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Reflection.Extensions.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Reflection.Primitives.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Resources.Reader.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Resources.ResourceManager.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Resources.Writer.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Runtime.CompilerServices.VisualC.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Runtime.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Runtime.Extensions.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Runtime.Handles.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Runtime.InteropServices.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Runtime.Numerics.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Runtime.Serialization.Formatters.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Runtime.Serialization.Json.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Runtime.Serialization.Primitives.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Runtime.Serialization.Xml.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Security.Claims.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Security.Cryptography.Algorithms.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Security.Cryptography.Csp.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Security.Cryptography.Encoding.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Security.Cryptography.Primitives.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Security.Principal.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Security.SecureString.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Text.Encoding.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Text.Encoding.Extensions.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Text.RegularExpressions.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Threading.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Threading.Overlapped.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Threading.Tasks.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Threading.Tasks.Parallel.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Threading.Thread.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Threading.ThreadPool.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Threading.Timer.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.ValueTuple.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Xml.ReaderWriter.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Xml.XDocument.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Xml.XmlDocument.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Xml.XmlSerializer.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Xml.XPath.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Xml.XPath.XDocument.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Bcl.HashCode.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Data.Sqlite.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.EntityFrameworkCore.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Configuration.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Logging.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Options.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Primitives.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Newtonsoft.Json.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\SQLitePCLRaw.core.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Buffers.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Collections.Immutable.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.ComponentModel.Annotations.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Memory.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Numerics.Vectors.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Bcl.HashCode.xml
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Data.Sqlite.xml
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.EntityFrameworkCore.xml
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Configuration.xml
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Logging.xml
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Options.xml
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Primitives.xml
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Newtonsoft.Json.xml
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Buffers.xml
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Collections.Immutable.xml
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Memory.xml
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Numerics.Vectors.xml
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Threading.Tasks.Extensions.xml
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\obj\Debug\BarChartLibrary.csproj.AssemblyReference.cache
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\obj\Debug\BarChartLibrary.dll.config
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\obj\Debug\BarChartLibrary.BarChart.resources
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\obj\Debug\BarChartLibrary.csproj.GenerateResource.cache
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\obj\Debug\BarChartLibrary.csproj.CoreCompileInputs.cache
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\obj\Debug\BarChartLibrary.csproj.CopyComplete
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\obj\Debug\BarChartLibrary.dll
+G:\backup C\desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\obj\Debug\BarChartLibrary.pdb
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\BarChartLibrary.dll.config
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\BarChartLibrary.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\BarChartLibrary.pdb
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Data.Sqlite.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\SQLitePCLRaw.core.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Buffers.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Memory.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Data.Sqlite.xml
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.DotNet.PlatformAbstractions.xml
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Abstractions.xml
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Design.xml
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.EntityFrameworkCore.Sqlite.xml
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Buffers.xml
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Memory.xml
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\obj\Debug\BarChartLibrary.csproj.AssemblyReference.cache
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\obj\Debug\BarChartLibrary.BarChart.resources
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\obj\Debug\BarChartLibrary.csproj.GenerateResource.cache
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\obj\Debug\BarChartLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\obj\Debug\BarChartLibrary.csproj.CopyComplete
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\obj\Debug\BarChartLibrary.dll
+C:\Users\Mirela\Desktop\Proiect de incarcat pe git\paw\GitSources\BarChartLibrary\obj\Debug\BarChartLibrary.pdb

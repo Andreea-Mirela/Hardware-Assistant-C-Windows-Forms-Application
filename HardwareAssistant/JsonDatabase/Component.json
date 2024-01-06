@@ -1,0 +1,146 @@
+[
+  {
+    "ComponentId": 1,
+    "ComponentTypeId": 1,
+    "CompatibilityTypeId": 9,
+    "ComponentCode": "BX80684I39100",
+    "ComponentName": "Procesor Intel Coffee Lake, Core i3 9100 3.6GHz box",
+    "Manufacturer": "Intel",
+    "Series": "Core i3 9th gen"
+  },
+  {
+    "ComponentId": 2,
+    "ComponentTypeId": 2,
+    "CompatibilityTypeId": 15,
+    "ComponentCode": "CMK8GX4M1A2400C14",
+    "ComponentName": "Memorie Corsair Vengeance LPX Black 8GB DDR4 2400MHz CL14",
+    "Manufacturer": "Corsair",
+    "Series": "Vengeance LPX"
+  },
+  {
+    "ComponentId": 3,
+    "ComponentTypeId": 3,
+    "CompatibilityTypeId": 17,
+    "ComponentCode": "WD10EZEX",
+    "ComponentName": "Hard disk WD Blue 1TB SATA-III 7200 RPM 64MB",
+    "Manufacturer": "Western Digital",
+    "Series": "Blue"
+  },
+  {
+    "ComponentId": 4,
+    "ComponentTypeId": 4,
+    "CompatibilityTypeId": 17,
+    "ComponentCode": "SA400S37/240G",
+    "ComponentName": "SSD Kingston A400 240GB SATA-III 2.5 inch",
+    "Manufacturer": "Kingston",
+    "Series": "A400"
+  },
+  {
+    "ComponentId": 5,
+    "ComponentTypeId": 5,
+    "CompatibilityTypeId": 20,
+    "ComponentCode": "GV-N2060OC-6GD",
+    "ComponentName": "Placa video GIGABYTE GeForce RTX 2060 OC 6GB GDDR6 192-bit",
+    "Manufacturer": "Gigabyte",
+    "Series": "GeForce RTX 2000"
+  },
+  {
+    "ComponentId": 6,
+    "ComponentTypeId": 6,
+    "CompatibilityTypeId": 23,
+    "ComponentCode": "PRIME Z390-P",
+    "ComponentName": "Placa de baza ASUS PRIME Z390-P",
+    "Manufacturer": "Asus",
+    "Series": "Z390"
+  },
+  {
+    "ComponentId": 7,
+    "ComponentTypeId": 1,
+    "CompatibilityTypeId": 29,
+    "ComponentCode": "BX80677I37100",
+    "ComponentName": "Procesor Intel Kaby Lake, Core i3 7100 3.9GHz box",
+    "Manufacturer": "Intel",
+    "Series": "Core i3 7th gen"
+  },
+  {
+    "ComponentId": 8,
+    "ComponentTypeId": 2,
+    "CompatibilityTypeId": 14,
+    "ComponentCode": "HX316C10F/4",
+    "ComponentName": "Memorie HyperX Fury Blue 4GB DDR3 1600 MHz CL10",
+    "Manufacturer": "HyperX",
+    "Series": "Fury"
+  },
+  {
+    "ComponentId": 9,
+    "ComponentTypeId": 3,
+    "CompatibilityTypeId": 17,
+    "ComponentCode": "ST1000DM010",
+    "ComponentName": "Hard disk Seagate BarraCuda 1TB SATA-III 7200RPM 64MB",
+    "Manufacturer": "Seagate",
+    "Series": "BaraCuda"
+  },
+  {
+    "ComponentId": 10,
+    "ComponentTypeId": 6,
+    "CompatibilityTypeId": 25,
+    "ComponentCode": "H81MHV3",
+    "ComponentName": "Placa de baza Biostar H81MHV3",
+    "Manufacturer": "Biostar",
+    "Series": "H81MHV3"
+  },
+  {
+    "ComponentId": 11,
+    "ComponentTypeId": 2,
+    "CompatibilityTypeId": 12,
+    "ComponentCode": "ZE-DDR1G400-b",
+    "ComponentName": "Memorie Zeppelin 1GB DDR 400MHz CL3 Bulk",
+    "Manufacturer": "Zeppelin",
+    "Series": "Standard"
+  },
+  {
+    "ComponentId": 12,
+    "ComponentTypeId": 2,
+    "CompatibilityTypeId": 13,
+    "ComponentCode": "CT25664AA800",
+    "ComponentName": "Memorie Crucial 2GB DDR2 800MHz CL6",
+    "Manufacturer": "Crucial",
+    "Series": "Standard"
+  },
+  {
+    "ComponentId": 13,
+    "ComponentTypeId": 2,
+    "CompatibilityTypeId": 14,
+    "ComponentCode": "KVR13N9S8/4",
+    "ComponentName": "Memorie Kingston ValueRAM 4GB DDR3 1333MHz CL9 SRx8",
+    "Manufacturer": "Kingston",
+    "Series": "ValueRAM"
+  },
+  {
+    "ComponentId": 14,
+    "ComponentTypeId": 2,
+    "CompatibilityTypeId": 14,
+    "ComponentCode": "CMV4GX3M1A1600C11",
+    "ComponentName": "Memorie Corsair Value Select 4GB DDR3 1600MHz CL11",
+    "Manufacturer": "Corsair",
+    "Series": "Value Select"
+  },
+  {
+    "ComponentId": 15,
+    "ComponentTypeId": 2,
+    "CompatibilityTypeId": 15,
+    "ComponentCode": "CMK8GX4M1D3000C16",
+    "ComponentName": "Memorie Corsair Vengeance LPX Black 8GB DDR4 3000MHz CL16",
+    "Manufacturer": "Corsair",
+    "Series": "Vengeance LPX"
+  },
+  {
+    "ComponentId": 16,
+    "ComponentTypeId": 2,
+    "CompatibilityTypeId": 15,
+    "ComponentCode": "EKBLACK4163016AD",
+    "ComponentName": "Memorie Exceleram Black Kudos 16GB DDR4 3000MHz CL16 1.35v Dual Channel Kit",
+    "Manufacturer": "Exceleram",
+    "Series": "Black Kudos"
+  }
+]

@@ -1,0 +1,11 @@
+[
+{
+  "SolidStateDriveId": 4,
+  "Interface": "SATA-III",
+  "Capacity": "240 GB",
+  "Controller": "Phison S11",
+  "FormFactor": "2.5 inch",
+  "ReadSpeed": "500 MB/s",
+  "WriteSpeed": "350 MB/s"
+}
+]
