@@ -1,4 +1,16 @@
-# Hardware-Assistant-C-Windows-Forms-Application
+# Hardware Assistant - Windows Forms Application 🖥️
+
+The Hardware Assistant application in C# provides users with guidance on selecting compatible hardware components for their computer upgrades.
+
+## Overview
+
+This Windows Forms application allows users to search for a computer by its unique code or enter it manually. Users can then view details of the selected computer and explore compatible hardware components.
+
+### Components
+
+The application uses Windows Forms for the user interface and C# for backend logic.
+
+## Screenshots
 ![image](https://github.com/Andreea-Mirela/Hardware-Assistant-C-Windows-Forms-Application/assets/111393279/25be0dbc-cfa2-4e79-b2e9-ed8571b17528)
 ![image](https://github.com/Andreea-Mirela/Hardware-Assistant-C-Windows-Forms-Application/assets/111393279/28d8f8a7-1257-45fe-aceb-963ab5d1ddd4)
 ![image](https://github.com/Andreea-Mirela/Hardware-Assistant-C-Windows-Forms-Application/assets/111393279/e8b493cb-067d-4b70-9b4c-691fbc86855d)
